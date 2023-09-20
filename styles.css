@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(204, 204, 204);
+}
+.heading{
+	text-align: center;
+}
+.song-list{
+	background-color: rgb(255, 255, 255);
+	border:3px solid black;
+	border-radius: 3px;
+}
+.player_one{
+	background-color: rgb(255, 255, 255);
+}
