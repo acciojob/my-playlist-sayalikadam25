@@ -16,6 +16,11 @@ body{
 	border: 3px solid black;
 	border-radius: 3px;
 }
+.player_two{
+	background-color:white;
+	padding:10px;
+	border-radius:10px;
+}
 a{
 	text-decoration-line:none;
 }
